@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="btn" parent="android:Widget.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:padding">5sp</item>
+        <item name="android:background">@drawable/form</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:colorFocusedHighlight">#D61D1D</item>
+    </style>
+    <style name="btn.stylebtn">
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="edittext" parent="android:Widget.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:padding">5sp</item>
+        <item name="android:background">@color/purple_700</item>
+    </style>
+    <style name="titre" parent="android:Widget.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:background">@color/purple_700</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

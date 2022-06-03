@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">othmanechafak201</string>
+    <string name="btn1">Ajouter une Societe</string>
+    <string name="btn2">Editer une Societe</string>
+    <string name="btn3">Liste de tous les Societes</string>
+    <string name="hint1">Tapez votre raison sociale</string>
+    <string name="hint2">Tapez votre secteur</string>
+    <string name="hint3">Tapez votre nombre de personne </string>
+    <string name="btnajout1">ENREGISTRER</string>
+    <string name="btnmodifier">MODIFIER</string>
+    <string name="btnsupprimer">SUPPRIMER</string>
+    <string name="btnajout2">ANNULER</string>
+    <string name="titre1">Ajouter societe</string>
+    <string name="titre2">Modifier Societe</string>
+    <string name="titre3">Liste Societe</string>
+</resources>
